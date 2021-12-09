@@ -1,5 +1,5 @@
 # AP2 T-Rex Runner
-#### T-Rex Runner game that plays on a Anne Pro 2 keyboard
+## T-Rex Runner game that plays on a Anne Pro 2 keyboard
 Made with nodejs in an Electron Application      
 Dependencies :
 - Socket.io
@@ -244,4 +244,5 @@ LEDController.command_info = [32, 3, 255];
 module.exports.LEDController = LEDController;
 ```
 
-Preview
+# Preview :
+![preview of t-rex runner on AP2](preview/preview.gif)
