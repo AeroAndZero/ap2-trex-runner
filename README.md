@@ -7,6 +7,9 @@ Dependencies :
 - Electron
 - p5js (no need to install, using cdn for the script)
 
+# Preview :
+![preview of t-rex runner on AP2](preview/preview.gif)          
+
 Annemone is library which allows users to communicate with anne pro 2. I have slightly modified it for game performance.
 Replace annemone/index.js with this code :
 ```
@@ -243,6 +246,3 @@ LEDController.command_info = [32, 3, 255];
 
 module.exports.LEDController = LEDController;
 ```
-
-# Preview :
-![preview of t-rex runner on AP2](preview/preview.gif)
